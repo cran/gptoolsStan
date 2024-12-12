@@ -11,7 +11,7 @@ knitr::opts_chunk$set(
 ## ----include = FALSE----------------------------------------------------------
 # Make sure cmdstanr is all set up. But we don't need to show the reader this.
 cmdstanr::check_cmdstan_toolchain(fix = TRUE)
-cmdstanr::install_cmdstan()
+cmdstanr::install_cmdstan(version = "2.36.0")
 
 ## ----results='markup', comment='', echo=FALSE---------------------------------
 cat(readLines("getting_started.stan"), sep = "\n")

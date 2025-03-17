@@ -1,13 +1,14 @@
-f9d1ac56a3f8b40474e8ec1ab93eee24 *DESCRIPTION
+c427786c84783a5c1b9fdb88e985a054 *DESCRIPTION
 fc2ed0d3935a6a6528d7786eabb89537 *LICENSE
 868991d3b7e41314f227784a84b7bf27 *NAMESPACE
 a5e3d11b27db3e622835bc37a99fbd19 *NEWS.md
 82c2a728ad776235a6fd0ccdf32affb8 *R/model.R
-34eb5f84278f0ee89145dcb4f9abfdf1 *README.md
+be9736653bdfc4c11cb5369b65691f2a *README.md
 9358812083822aa47bac741b3b47dfd4 *build/vignette.rds
+7ec6a53869c21786f1563b8cf120f9df *inst/CITATION
 23da59ef642af359984bf87f472030fd *inst/doc/getting_started.R
 0207ba63f811bf2c42a28a7b65af101c *inst/doc/getting_started.Rmd
-0b99ed820f681e54143642c226af9ec8 *inst/doc/getting_started.html
+44995bbd00b5c5d6118054fd39effe8b *inst/doc/getting_started.html
 4e4e69e7f96504ed5ca7013ed2879aeb *inst/extdata/gptools/fft.stan
 78a07ba28a07baaf61004b74d0d8981a *inst/extdata/gptools/fft1.stan
 c91b963e2107630273406a12d7a34858 *inst/extdata/gptools/fft2.stan
